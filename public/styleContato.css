@@ -1,0 +1,30 @@
+.container-logo {
+    margin-left: 11.5em;
+}
+
+.container-nav ul li{
+    display: inline;
+
+    position: relative;
+    left: 120vh;
+    top: -4.5em;
+
+    margin-left: 1em;
+}
+
+
+
+.container-nav ul li a{
+    text-decoration: none;
+    color: rgb(0, 90, 0);
+}
+
+.container-nav ul li a:hover{
+    transition: .5s;
+    color: rgba(1, 104, 1, 0.692);
+}
+
+
+.container-image-contato{
+    margin-left: 11.5em;
+}

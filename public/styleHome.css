@@ -1,0 +1,8 @@
+.col{
+    cursor: pointer;
+    
+}
+
+.col:hover{
+    -webkit-transform: scale(1.02);
+}
